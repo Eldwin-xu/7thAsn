@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/IMDT/BASE/Scenes/Main.unity
     guid: edce6a3cd6b78e7459bd2864b9295f8c
-  - enabled: 1
-    path: Assets/3rdPerson+Fly(Mobile)/Scenes/3rdPerson+Fly(touchscreen-cam).unity
-    guid: 82c8bafeb6f17a44c9197ab4cb088adc
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
